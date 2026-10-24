@@ -43,7 +43,7 @@ An AI-focused platform exploring competency intelligence and intelligent systems
 
 ### 02. NESHAKTI — Logistics & Accessibility Intelligence
 
-**SIH26002 · Smart Logistics · Northeast India**
+
 
 A prototype concept focused on logistics, route planning, weather awareness, and accessibility across Northeast India.
 
